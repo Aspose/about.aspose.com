@@ -44,3 +44,4 @@ jobs:
         dst_repo_name: about-theme
         dst_branch: main
         src_branch: main
+        clean: true
