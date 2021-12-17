@@ -15,7 +15,7 @@ menu:
 
 ---
 
-<div><h5>Companies around the world rely on Aspose.</h5>
+<div><h5>Companies around the world rely on Aspose</h5>
 
 Aspose's customers come from a wide variety of industries and can be found all over the globe. From software and consulting companies to banks, government organizations and educational institutions, Aspose products finds users wherever there is a need for file format expertise.
 
