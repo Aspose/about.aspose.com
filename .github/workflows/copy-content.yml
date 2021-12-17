@@ -39,7 +39,7 @@ jobs:
       with:
         personal_token: ${{ secrets.REPO_TOKEN }}
         src_path: ./content/.
-        dst_path: /content/about.aspose.com
+        dst_path: /content/about.aspose.com/
         dst_owner: conholdate
         dst_repo_name: about-theme
         dst_branch: main
