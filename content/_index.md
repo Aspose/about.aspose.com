@@ -9,7 +9,7 @@ weight: 1
 
 ---
 
-#### Background-2
+#### Background
 
 After being founded in 2002, aspose.com was the first website launched by Aspose Pty Ltd which started by offering components for .NET developers. At that time, aspose.com was just a .NET component publisher, building and offering different types of components but later we decided to focus more on components related to file formats (like xls, xlsx, doc, docx, pdf etc.) and grow in that area.
 
