@@ -77,7 +77,7 @@ menu:
 <div class="box1 row">
 <div class="col-md-12">
 <h5>More questions about Security?</h5>
-<p>You can read more in our <a href="/legal/eula" rel="alternate">EULA </a>and <a href="/legal/privacy-policy" rel="alternate">Privacy Policy</a>. If you have a question, concern, or comment about Aspose's security that's not covered here? <span id="cloak2537a1c8249c00ea5d64cf83a0564ff1">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak2537a1c8249c00ea5d64cf83a0564ff1').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy2537a1c8249c00ea5d64cf83a0564ff1='s&#101;c&#117;r&#105;ty'+'&#64;';addy2537a1c8249c00ea5d64cf83a0564ff1=addy2537a1c8249c00ea5d64cf83a0564ff1+'&#97;sp&#111;s&#101;'+'&#46;'+'c&#111;m';var addy_text2537a1c8249c00ea5d64cf83a0564ff1='Em&#97;&#105;l Us';document.getElementById('cloak2537a1c8249c00ea5d64cf83a0564ff1').innerHTML+='<a '+path+'\''+prefix+':'+addy2537a1c8249c00ea5d64cf83a0564ff1+'\' rel="alternate">'+addy_text2537a1c8249c00ea5d64cf83a0564ff1+'<\/a>';</script> or <a href="https://forum.aspose.com/" rel="alternate">Ask on the support forums</a>.</p>
+<p>You can read more in our <a href="/legal/eula" rel="alternate">EULA </a>and <a href="/legal/privacy-policy" rel="alternate">Privacy Policy</a>. If you have a question, concern, or comment about Aspose's security that's not covered here? <span id="cloakb2b93343ab10595955dfa357452ec986"><a href="mailto:security@aspose.com" rel="alternate">Email Us</a></span> or <a href="https://forum.aspose.com/" rel="alternate">Ask on the support forums</a>.</p>
 </div>
 </div>
 </div>
